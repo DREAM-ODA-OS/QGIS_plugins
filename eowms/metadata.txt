@@ -1,0 +1,15 @@
+[general]
+name=EO-WMS Client
+description=Plugin extends the baseline Q-GIS WMS support by enhanced 
+  functionality such as the time-dimension and certain EO-WMS features.
+category=Web
+tags=wms,eo,time dimension,oda
+version=0.1 
+qgisMinimumVersion=2.0
+website=http://www.eox.at
+author=Martin Paces 
+email=martin.paces@eox.at
+tracker=https://github.com/DREAM-ODA-OS/QGIS_plugins/issues
+repository=https://github.com/DREAM-ODA-OS/QGIS_plugins
+experimental=True 
+deprecated=False 
